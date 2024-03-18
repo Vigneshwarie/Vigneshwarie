@@ -12,6 +12,8 @@
 
 [![Vigneswari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vigneshwarie)](https://github.com/Vigneshwarie/github-readme-stats)
 
+![Vigneswari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vigneshwarie&show_icons=true&theme=radical)
+
 ## My GitHub Streak
 
 [![Vigneswari's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vigneshwarie&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
