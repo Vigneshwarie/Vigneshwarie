@@ -1,5 +1,4 @@
-### Hi there 👋
-## Thank you for visiting my profile.
+## Thank you for visiting my profile
 
 - I am Vigneswari Sambandam, aka Viggy, actively seeking a job.
 - I'm a UC Berkeley Certified MERN Full Stack Developer.
@@ -14,11 +13,11 @@
 
 ## My GitHub Streak
 
-[![Vigneswari's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vigneshwarie&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![Vigneswari's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vigneshwarie&theme=highcontrast&card_width=475&fire=EB5454)](https://git.io/streak-stats)
 
 ## My GitHub Stats
 
-![Vigneswari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vigneshwarie&show_icons=true&theme=dracula)
+![Vigneswari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vigneshwarie&show_icons=true&theme=gruvbox)
 
 
 
