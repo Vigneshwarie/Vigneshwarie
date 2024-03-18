@@ -8,4 +8,10 @@
 - My technical skills in Full Stack include JavaScript, Node JS, Express JS, REST APIs, Jest, React JS, Mongoose ODM, HTML5, CSS, Bootstrap, MERN, GraphQL, and JWT. Concerning enterprise projects, I have working experience in programming languages like Java, J2EE, C#, .Net, SQL, and Python. 
 - I have worked on multiple databases, including MSSQL, MySQL, Oracle, and MongoDB.
 
+## My GitHub Status
+
+## GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vigneshwarie&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
 
