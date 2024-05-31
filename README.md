@@ -19,7 +19,7 @@ Databases: MongoDB (Mongoose ODM), MSSQL, MySQL, Oracle
 
 ## My GitHub Streak
 
-[![Vigneswari's GitHub Streak](https://streak-stats.demolab.com?user=Vigneshwarie&theme=highcontrast)](https://git.io/streak-stats)
+[![Vigneswari's GitHub Streak](https://streak-stats.demolab.com?user=Vigneshwarie&theme=highcontrast&date_format=M%20j[,%20Y])](https://git.io/streak-stats)
 
 ## My GitHub Stats
 
