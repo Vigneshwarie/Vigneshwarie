@@ -24,7 +24,7 @@ Databases: MongoDB (Mongoose ODM), MSSQL, MySQL, Oracle
 
 ## My GitHub Stats
 
-![Vigneswari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vigneshwarie&show_icons=true&theme=gruvbox)
+![Vigneswari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vigneshwarie&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=highcontrast)
 
 
 
