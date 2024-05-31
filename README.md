@@ -9,10 +9,9 @@
 
 ## Technical Skills
 ### Full Stack Development
-Frontend: React JS, HTML5, CSS, Bootstrap, 
-Backend: Node JS, Express JS, JavaScript, REST APIs, GraphQL, JWT, Java, J2EE, C#, .NET, Python, SQL
-Testing: Jest
-Databases: MongoDB (Mongoose ODM), MSSQL, MySQL, Oracle
+Frontend: React JS, HTML5, CSS, Bootstrap    
+Backend: Node JS, Express JS, JavaScript, REST APIs, GraphQL, JWT, Java, J2EE, C#, .NET, Python, SQL        
+Databases: MongoDB (Mongoose ODM), MSSQL, MySQL, Oracle     
 
 ## My Top Contribution on GitHub
 
