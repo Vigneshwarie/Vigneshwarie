@@ -1,19 +1,24 @@
 ## Thank you for visiting my profile
 
-- I am Vigneswari Sambandam, aka Viggy, actively seeking a job.
-- I'm a UC Berkeley Certified MERN Full Stack Developer.
-- I'm pursuing my Master's in Information Technology and graduating in May 2024.
-- I'm very passionate about building and maintaining full-stack applications. I have 10+ years of experience developing and architecting web applications across Healthcare, Telecom, Banking, and other Service Industries.
-- My technical skills in Full Stack include JavaScript, Node JS, Express JS, REST APIs, Jest, React JS, Mongoose ODM, HTML5, CSS, Bootstrap, MERN, GraphQL, and JWT. Concerning enterprise projects, I have working experience in programming languages like Java, J2EE, C#, .Net, SQL, and Python. 
-- I have worked on multiple databases, including MSSQL, MySQL, Oracle, and MongoDB.
+## About Me
+👋 Hi, I'm Vigneswari Sambandam, aka Viggy, a UC Berkeley Certified Full Stack Developer and a Master's graduate in Information Technology.
+
+💻 I am deeply passionate about both designing and developing full-stack applications. With over 10 years of experience, I have successfully developed and architected web applications across various industries, including Healthcare, Telecom, Banking, and other Service sectors.
+
+📈 In addition to my technical expertise, I have demonstrated strong leadership and managerial skills. I have led multiple teams and projects, ensuring timely delivery and high-quality outcomes. My ability to manage cross-functional teams and drive project success has been a key factor in my professional journey.
+
+## Technical Skills
+### Full Stack Development
+Frontend: React JS, HTML5, CSS, Bootstrap, 
+Backend: Node JS, Express JS, JavaScript, REST APIs, GraphQL, JWT, Java, J2EE, C#, .NET, Python, SQL
+Testing: Jest
+Databases: MongoDB (Mongoose ODM), MSSQL, MySQL, Oracle
 
 ## My Top Languages
 
 ![Vigneswari's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshwarie&langs_count=10)
 
 ## My GitHub Streak
-
-[![Vigneswari's GitHub Streak](https://streak-stats.demolab.com/?user=Vigneshwarie&theme=highcontrast)](https://git.io/streak-stats)
 
 [![Vigneswari's GitHub Streak](https://streak-stats.demolab.com?user=Vigneshwarie&theme=highcontrast)](https://git.io/streak-stats)
 
