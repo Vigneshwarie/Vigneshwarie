@@ -15,6 +15,8 @@
 
 [![Vigneswari's GitHub Streak](https://streak-stats.demolab.com/?user=Vigneshwarie&theme=highcontrast)](https://git.io/streak-stats)
 
+[![Vigneswari's GitHub Streak](https://streak-stats.demolab.com?user=Vigneshwarie&theme=highcontrast)](https://git.io/streak-stats)
+
 ## My GitHub Stats
 
 ![Vigneswari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vigneshwarie&show_icons=true&theme=gruvbox)
