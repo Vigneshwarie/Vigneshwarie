@@ -9,7 +9,7 @@
 
 ## Technical Skills
 ### Full Stack Development
-**Generative AI:** RAG's, Streamlit, OpenAI, Unstructured.io, Amazon Bedrock, MongoDB Vector Database, Coze, Fireworks.ai
+**Generative AI:** RAG's, Streamlit, OpenAI, Unstructured.io, Amazon Bedrock, MongoDB Vector Database, Coze, Fireworks.ai   
 **Frontend:** React JS, HTML5, CSS, Bootstrap    
 **Backend:** Node JS, Express JS, JavaScript, REST APIs, GraphQL, JWT, Java, J2EE, C#, .NET, Python, SQL        
 **Databases:** MongoDB (Mongoose ODM), MSSQL, MySQL, Oracle     
