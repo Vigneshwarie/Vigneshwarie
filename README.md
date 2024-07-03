@@ -12,7 +12,11 @@
 **Generative AI:** RAG's, Streamlit, OpenAI, Unstructured.io, Amazon Bedrock, MongoDB Vector Database, Coze, Fireworks.ai   
 **Frontend:** React JS, HTML5, CSS, Bootstrap    
 **Backend:** Node JS, Express JS, JavaScript, REST APIs, GraphQL, JWT, Java, J2EE, C#, .NET, Python, SQL        
-**Databases:** MongoDB (Mongoose ODM), MSSQL, MySQL, Oracle     
+**Databases:** MongoDB (Mongoose ODM), MSSQL, MySQL, Oracle    
+
+## Achievements
+**Best Coze Agent:** Won at GenAI hackathon with AWS, Coze, and Cloudflare - Jun 2024   
+**Best Advanced Use of MongoDB Atlas Vector Search:** Won at MongoDB GenAI Hackathon - Jun 2024   
 
 ## My Top Contribution on GitHub
 
