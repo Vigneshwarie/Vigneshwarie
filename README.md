@@ -9,14 +9,14 @@
 
 ## Technical Skills
 ### Full Stack Development
-**Generative AI:** RAG's, Streamlit, OpenAI, Unstructured.io, Amazon Bedrock, MongoDB Vector Database, Coze, Fireworks.ai   
+**Generative AI:** RAG's, Streamlit, OpenAI, Unstructured.io, Hugging Face, Amazon Bedrock, MongoDB Vector Database, Coze, Fireworks.ai   
 **Frontend:** React JS, HTML5, CSS, Bootstrap    
 **Backend:** Node JS, Express JS, JavaScript, REST APIs, GraphQL, JWT, Java, J2EE, C#, .NET, Python, SQL        
 **Databases:** MongoDB (Mongoose ODM), MSSQL, MySQL, Oracle    
 
 ## Achievements
-**Best Coze Agent:** Won at GenAI hackathon with AWS, Coze, and Cloudflare - Jun 2024   
-**Best Advanced Use of MongoDB Atlas Vector Search:** Won at MongoDB GenAI Hackathon - Jun 2024   
+**First Prize**: **Best Coze Agent**: Awarded at the GenAI Hackathon for developing an innovative solution utilizing Coze and AWS, showcasing exceptional creativity and technical expertise (2024)   
+**First Prize**: **Best Advanced Use of MongoDB Atlas Vector Search:** Recognized at the MongoDB GenAI Hackathon for implementing advanced techniques in vector search, significantly enhancing data retrieval efficiency (2024)    
 
 ## My Top Contribution on GitHub
 
@@ -29,6 +29,8 @@
 ## My GitHub Stats
 
 ![Vigneswari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vigneshwarie&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=highcontrast)
+
+![](https://komarev.com/ghpvc/?username=Vigneshwarie&color=blue)
 
 
 
