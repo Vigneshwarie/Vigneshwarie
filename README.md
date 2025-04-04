@@ -3,16 +3,16 @@
 ## About Me
 👋 Hi, I'm Vigneswari Sambandam, aka Viggy, a UC Berkeley Certified Full Stack Developer and a Master's graduate in Information Technology.
 
-💻 I am deeply passionate about both designing and developing full-stack applications. With over 10 years of experience, I have successfully developed and architected web applications across various industries, including Healthcare, Telecom, Banking, and other Service sectors.
+💻 I am deeply passionate designing and developing web applications. With over 10 years of experience, I have successfully developed and architected web applications across various industries, including Healthcare, Telecom, Banking, and other Service sectors.
 
 📈 In addition to my technical expertise, I have demonstrated strong leadership and managerial skills. I have led multiple teams and projects, ensuring timely delivery and high-quality outcomes. My ability to manage cross-functional teams and drive project success has been a key factor in my professional journey.
 
 ## Technical Skills
 ### Full Stack Development
 **Generative AI:** RAG's, Streamlit, OpenAI, Unstructured.io, Hugging Face, Amazon Bedrock, MongoDB Vector Database, Coze, Fireworks.ai   
-**Frontend:** React JS, HTML5, CSS, Bootstrap    
-**Backend:** Node JS, Express JS, JavaScript, REST APIs, GraphQL, JWT, Java, J2EE, C#, .NET, Python, SQL        
-**Databases:** MongoDB (Mongoose ODM), MSSQL, MySQL, Oracle    
+**Frontend:** React.js, HTML5, CSS    
+**Backend:** Node.js, Express.js, JavaScript, REST APIs, GraphQL, JWT, Java, J2EE, C#, .NET, Python, SQL        
+**Databases:** MongoDB, MSSQL, MySQL, Oracle    
 
 ## Achievements
 **First Prize**: **Best Coze Agent**: Awarded at the GenAI Hackathon for developing an innovative solution utilizing Coze and AWS, showcasing exceptional creativity and technical expertise (2024)   
